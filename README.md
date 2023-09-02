@@ -3,6 +3,8 @@ A platform that let users Lend and Borrow the app
 
 Project Description
 
+Frontend Repo For the Dapp:- https://github.com/Sishusinha/Lend_Borrow-Frontend
+
 
 ➢ Major Area: Lending And Borrowing
 
